@@ -1,11 +1,29 @@
 import React from "react";
 import Navbar from "../components/navbar";
+import Selfie from "../images/selfie.png";
+import Tree from "../components/Tree/tree";
 
 function About() {
     return (
         <div>
             <Navbar about="nav-link active" portfolio="nav-link" resume="nav-link" />
-            <p>about</p>
+            <div className="container mt-2">
+                <div className="col-md">
+                    <h1>Terry Gong</h1>
+                    <hr />
+                    <div className="row">
+                        <div className="col-md-2">
+                            <img src={Selfie} alt="selfie" className="float-left img-fluid p-2" />
+                        </div>
+                        <div className="col-md-10">
+                            <p>I graduated as a 3D artist that mainly for game development, because of the love for video
+                            games. Currently I’m pursuing to be a Full Stack Developer.</p>
+                            <p>If you need somthing new to play, here are a few games that I love.</p>
+                            <Tree />
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     );
 }

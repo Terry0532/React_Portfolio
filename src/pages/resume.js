@@ -6,9 +6,9 @@ function Resume() {
     return (
         <div>
             <Navbar about="nav-link" portfolio="nav-link" resume="nav-link active" />
-            <div class="container mt-2">
-                <div class="row">
-                    <div class="col-md">
+            <div className="container mt-2">
+                <div className="row">
+                    <div className="col-md">
                         <h1>Resume</h1>
                         <hr />
                         <article>
@@ -39,7 +39,7 @@ function Resume() {
                             <h5>Warehouse Associate, Amazon; Salt Lake City, Utah — 2019-Present</h5>
                             <p>Packer, Stower, SLAM(Scan, Label, Apply, Manifest) machine operator.</p>
                         </article>
-                        <a href={resume} target="_blank" rel="noopener noreferrer" class="btn btn-primary" role="button">Open in PDF</a>
+                        <a href={resume} target="_blank" rel="noopener noreferrer" className="btn btn-primary" role="button">Open in PDF</a>
                         <hr />
                     </div>
                 </div>
