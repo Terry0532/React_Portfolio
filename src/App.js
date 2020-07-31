@@ -9,9 +9,9 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route exact path="/" component={About} />
-        <Route path="/portfolio" component={Portfolio} />
-        <Route path="/resume" component={Resume} />
+        <Route exact path={process.env.PUBLIC_URL + "/"} component={About} />
+        <Route path={process.env.PUBLIC_URL + "/portfolio"} component={Portfolio} />
+        <Route path={process.env.PUBLIC_URL + "/resume"} component={Resume} />
       </Switch>
       <Footer />
     </Router>
