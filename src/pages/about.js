@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "../components/navbar";
-import Selfie from "../images/selfie.png";
+import Selfie from "../images/other/selfie.png";
 import Tree from "../components/Tree/tree";
 
 function About() {
