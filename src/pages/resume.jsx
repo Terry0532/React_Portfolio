@@ -36,7 +36,7 @@ function Resume() {
                             <h3><b>Education</b></h3>
                             <p>Salt Lake Community College - General Education, 2012-2016</p>
                             <p>University of Utah - Film and Media Arts with Entertainment Arts and Engineering Emphasis BA, 2016-2019</p>
-                            <p>University of Utah Professional Education - Coding Boot Camp, 2020 Feb-Aug</p>
+                            <p>University of Utah Professional Education — Full Stack Developer Certificate, 2020 Feb-Aug</p>
                             <h3><b>Work Experiences</b></h3>
                             <p>Delivery Driver, Rice King Restaurant; Midvale, Utah — 2012-2019</p>
                             <p>Warehouse Associate, Amazon; Salt Lake City, Utah — 2019-2020</p>
