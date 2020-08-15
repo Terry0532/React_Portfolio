@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React_Portfolio/static/css/main.5f0e1e5f.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.a4ad90a6.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.a4ad90a6.chunk.js.map",
+    "main.js": "/React_Portfolio/static/js/main.bb215a1a.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.bb215a1a.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.446e9683.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.446e9683.js.map",
     "static/js/2.cdc9e95c.chunk.js": "/React_Portfolio/static/js/2.cdc9e95c.chunk.js",
     "static/js/2.cdc9e95c.chunk.js.map": "/React_Portfolio/static/js/2.cdc9e95c.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.f1590beb6adbaf2683a7975b4dda4b5f.js": "/React_Portfolio/precache-manifest.f1590beb6adbaf2683a7975b4dda4b5f.js",
+    "precache-manifest.9c2ade958a27efe0de2390b308bd3620.js": "/React_Portfolio/precache-manifest.9c2ade958a27efe0de2390b308bd3620.js",
     "service-worker.js": "/React_Portfolio/service-worker.js",
     "static/css/main.5f0e1e5f.chunk.css.map": "/React_Portfolio/static/css/main.5f0e1e5f.chunk.css.map",
     "static/js/2.cdc9e95c.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.cdc9e95c.chunk.js.LICENSE.txt",
@@ -27,13 +27,13 @@
     "static/media/Need_for_Speed_Most_Wanted_Box_Art.jpg": "/React_Portfolio/static/media/Need_for_Speed_Most_Wanted_Box_Art.515d9ae0.jpg",
     "static/media/Nier_Automata_cover_art.jpg": "/React_Portfolio/static/media/Nier_Automata_cover_art.24a6e516.jpg",
     "static/media/Pokemon_Yellow.png": "/React_Portfolio/static/media/Pokemon_Yellow.b4898af0.png",
-    "static/media/Resume.pdf": "/React_Portfolio/static/media/Resume.9eef316a.pdf",
+    "static/media/Resume.pdf": "/React_Portfolio/static/media/Resume.27a72762.pdf",
     "static/media/Saya_no_Uta_cover.jpg": "/React_Portfolio/static/media/Saya_no_Uta_cover.aacb96f1.jpg",
     "static/media/Steins;Gate_cover_art.jpg": "/React_Portfolio/static/media/Steins;Gate_cover_art.64d08a1c.jpg",
     "static/media/Talesoftheabyss_us.jpg": "/React_Portfolio/static/media/Talesoftheabyss_us.07ea8118.jpg",
     "static/media/Video_Game_Cover_-_The_Last_of_Us.jpg": "/React_Portfolio/static/media/Video_Game_Cover_-_The_Last_of_Us.34bf50e1.jpg",
-    "static/media/burger.png": "/React_Portfolio/static/media/burger.1eb58828.png",
     "static/media/celebrity_twin.png": "/React_Portfolio/static/media/celebrity_twin.f6eb5be1.png",
+    "static/media/google_books_search.png": "/React_Portfolio/static/media/google_books_search.f4d84543.png",
     "static/media/html_quiz.png": "/React_Portfolio/static/media/html_quiz.d5b8f98b.png",
     "static/media/linux.png": "/React_Portfolio/static/media/linux.d09e16d2.png",
     "static/media/playstore-512.png": "/React_Portfolio/static/media/playstore-512.d3d20324.png",
@@ -47,6 +47,6 @@
     "static/js/runtime-main.446e9683.js",
     "static/js/2.cdc9e95c.chunk.js",
     "static/css/main.5f0e1e5f.chunk.css",
-    "static/js/main.a4ad90a6.chunk.js"
+    "static/js/main.bb215a1a.chunk.js"
   ]
 }
