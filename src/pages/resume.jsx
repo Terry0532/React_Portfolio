@@ -36,7 +36,7 @@ function Resume() {
                             <h3><b>Education</b></h3>
                             <p>Salt Lake Community College - General Education, 2012-2016</p>
                             <p>University of Utah - Film and Media Arts with Entertainment Arts and Engineering Emphasis BA, 2016-2019</p>
-                            <p>University of Utah Professional Education — Full Stack Developer Certificate, 2020 Feb-Aug</p>
+                            <a href="https://www.youracclaim.com/badges/fc3efed1-0c3b-4a45-94a1-6161b27a112d/public_url" target="_blank" rel="noopener noreferrer">University of Utah Professional Education — Full Stack Developer Certificate, 2020 Feb-Aug</a>
                             <h3><b>Work Experiences</b></h3>
                             <p>Delivery Driver, Rice King Restaurant; Midvale, Utah — 2012-2019</p>
                             <p>Warehouse Associate, Amazon; Salt Lake City, Utah — 2019-2020</p>
