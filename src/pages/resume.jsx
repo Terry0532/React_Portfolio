@@ -13,15 +13,14 @@ function Resume() {
                         <hr />
                         <article>
                             <h3><b>Skills</b></h3>
-                            <p>Front-end: JavaScript, HTML, CSS, jQuery, React</p>
-                            <p>Back-end: NodeJS, ExpressJS, MySQL, Sequelize, MongoDB, Mongoose</p>
+                            <p>JavaScript, HTML, CSS, jQuery, React, NodeJS, ExpressJS, MySQL, Sequelize, MongoDB, Mongoose, AWS EC2, AWS RDS</p>
                             <h3><b>Projects</b></h3>
                             <h6><i><b>GOOGLE BOOKS SEARCH</b></i></h6>
-                            <p>A site that utilize Google Books API for user to search and save books as well as a ranking page to display top saved books across all users.</p>
-                            <p>&#9679; Using React and bootstrap for frontend; Sequelize and ExpressJS for backend.</p>
+                            <p>A site that utilize Google Books API for user to search and save books, as well as a ranking page to display top saved books across all users.</p>
+                            <p>&#9679; React and bootstrap for frontend; Sequelize and ExpressJS for backend; AWS RDS for database.</p>
                             <p>&#9679; JWT for user authorization, bcrypt to hash user password and dotenv to hide other sensitive data such as database username, password, etc.</p>
                             <p>&#9679; Uses ChartJS to display top 10 saved books from all users.</p>
-                            <p>GitHub Repo: <a href="https://github.com/Terry0532/Google-Books-Search" target="_blank" rel="noopener noreferrer">Link</a> Deployed on Heroku: <a href="https://frozen-anchorage-90956.herokuapp.com/" target="_blank" rel="noopener noreferrer">Link</a></p>
+                            <p>GitHub Repo: <a href="https://github.com/Terry0532/Google-Books-Search" target="_blank" rel="noopener noreferrer">Link</a> Deployed on AWS EC2: <a href="http://googlebooks.online/" target="_blank" rel="noopener noreferrer">Link</a></p>
                             <h6><i><b>WEATHER DASHBOARD</b></i></h6>
                             <p>
                                 A simple site built with “mobile first design” in mind.
