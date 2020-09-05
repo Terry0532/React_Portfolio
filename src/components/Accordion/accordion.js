@@ -21,6 +21,12 @@ function Accordion(props) {
                                 <img src={project.image} alt={project.name} height="400" width="400" className="img-fluid card-img-top" />
                                 <div className="card-body text-center">
                                     <hr />
+                                    {
+                                        project.details
+                                            ? project.details.split('\n').map(item => { return <p>{item}<br /></p> })
+                                            : <></>
+                                    }
+                                    <hr />
                                     <a href={project.site} target="_blank" rel="noopener noreferrer"
                                         className="btn btn-primary mr-1" role="button">Website</a>
                                     <a href={project.repo} target="_blank" rel="noopener noreferrer"
