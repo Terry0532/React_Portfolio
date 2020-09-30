@@ -3,13 +3,15 @@ import WeatherDashboardImage from "../images/project_screenshots/weather_dashboa
 import QuizImage from "../images/project_screenshots/html_quiz.png";
 import WorkDaySchedulerImage from "../images/project_screenshots/work_day_scheduler.png";
 import GoogleBooksSearchImage from "../images/project_screenshots/googlebooks.gif";
+import MyAutoSpace from "../images/project_screenshots/myautospace.png";
 
 const images = {
     CelebrityTwinImage: CelebrityTwinImage,
     WeatherDashboardImage: WeatherDashboardImage,
     QuizImage: QuizImage,
     WorkDaySchedulerImage: WorkDaySchedulerImage,
-    GoogleBooksSearchImage: GoogleBooksSearchImage
+    GoogleBooksSearchImage: GoogleBooksSearchImage,
+    MyAutoSpace: MyAutoSpace
 }
 
 export default images;

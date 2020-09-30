@@ -28,7 +28,7 @@ function Resume() {
                            </p>
                             <p>&#9679; Uses Google Map’s API to display car maintenance shop near user’s location and CarMD VIN Decoder API to provide information of their vehicles.</p>
                             <p>&#9679; User can add new vehicle when they are offline, and it will automatically sync with the server when online.</p>
-                            <p>GitHub Repo: <a href="https://github.com/Terry0532/myAutoSpace" target="_blank" rel="noopener noreferrer">Link</a> Deployed on Heroku: <a href="https://young-lake-34599.herokuapp.com/" target="_blank" rel="noopener noreferrer">Link</a></p>
+                            <p>GitHub Repo: <a href="https://github.com/JINJ95/AutoSpace" target="_blank" rel="noopener noreferrer">Link</a> Deployed on Heroku: <a href="https://young-lake-34599.herokuapp.com/" target="_blank" rel="noopener noreferrer">Link</a></p>
                             <h3><b>Education</b></h3>
                             <p>Salt Lake Community College - General Education, 2012-2016</p>
                             <p>University of Utah - Film and Media Arts with Entertainment Arts and Engineering Emphasis BA, 2016-2019</p>

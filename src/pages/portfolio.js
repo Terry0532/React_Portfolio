@@ -11,6 +11,12 @@ const projects = [
         image: images.GoogleBooksSearchImage,
         details: "This is a MERN stack application that will call google books API to return user search results. If user wants to save the book for later use, they need to sign up first. After login user will have access to saved page. Ranking page will display top 10 saved books from all users. \n Test account Username: 1 Password: 1"
     }, {
+        name: "MyAutoSpace",
+        site: "https://young-lake-34599.herokuapp.com/",
+        repo: "https://github.com/JINJ95/AutoSpace",
+        image: images.MyAutoSpace,
+        details: "MyAutoSpace is must have for any home mechanic. The simple interface allows users to document their vehicle histories and keep up with suggested maintenance."
+    }, {
         name: "Celebrity Twin",
         site: "https://terry0532.github.io/celebrity_twin/",
         repo: "https://github.com/Terry0532/celebrity_twin",
