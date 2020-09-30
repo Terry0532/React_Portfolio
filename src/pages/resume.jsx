@@ -20,16 +20,15 @@ function Resume() {
                             <p>&#9679; React and bootstrap for frontend; Sequelize and ExpressJS for backend; AWS RDS for database.</p>
                             <p>&#9679; JWT for user authorization, bcrypt to hash user password and dotenv to hide other sensitive data such as database username, password, etc.</p>
                             <p>&#9679; Uses ChartJS to display top 10 saved books from all users.</p>
-                            <p>GitHub Repo: <a href="https://github.com/Terry0532/Google-Books-Search" target="_blank" rel="noopener noreferrer">Link</a> Deployed on AWS EC2: <a href="http://googlebooks.online/" target="_blank" rel="noopener noreferrer">Link</a></p>
-                            <h6><i><b>WEATHER DASHBOARD</b></i></h6>
+                            <p>GitHub Repo: <a href="https://github.com/Terry0532/Google-Books-Search" target="_blank" rel="noopener noreferrer">Link</a> Deployed on AWS EC2: <a href="http://googlebooks.online/" target="_blank" rel="noopener noreferrer">Link</a> Deployed on Heroku: <a href="https://frozen-anchorage-90956.herokuapp.com" target="_blank" rel="noopener noreferrer">Link</a></p>
+                            <h6><i><b>MYAUTOSPACE</b></i></h6>
                             <p>
-                                A simple site built with “mobile first design” in mind.
-                                Uses OpenWeatherMap’s api for weather informations.
-                                Details such as, provide user with their local time and the searched city’s time;
-                                a GPS button to get user’s current location;
-                                uses local storage to save last searched city for faster access when user open the site again.
+                                MyAutoSpace is must have for any home mechanic.
+                                The simple interface allows users to document their vehicle histories and keep up with suggested maintenance.
                            </p>
-                            <p>GitHub Repo: <a href="https://github.com/Terry0532/Weather-Dashboard" target="_blank" rel="noopener noreferrer">Link</a> Deployed on Heroku: <a href="https://terry0532.github.io/Weather-Dashboard/" target="_blank" rel="noopener noreferrer">Link</a></p>
+                            <p>&#9679; Uses Google Map’s API to display car maintenance shop near user’s location and CarMD VIN Decoder API to provide information of their vehicles.</p>
+                            <p>&#9679; User can add new vehicle when they are offline, and it will automatically sync with the server when online.</p>
+                            <p>GitHub Repo: <a href="https://github.com/Terry0532/myAutoSpace" target="_blank" rel="noopener noreferrer">Link</a> Deployed on Heroku: <a href="https://young-lake-34599.herokuapp.com/" target="_blank" rel="noopener noreferrer">Link</a></p>
                             <h3><b>Education</b></h3>
                             <p>Salt Lake Community College - General Education, 2012-2016</p>
                             <p>University of Utah - Film and Media Arts with Entertainment Arts and Engineering Emphasis BA, 2016-2019</p>
