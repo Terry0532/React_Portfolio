@@ -5,6 +5,12 @@ import images from "../components/images";
 
 const projects = [
     {
+        name: "Online Chess",
+        site: "https://warm-brushlands-64673.herokuapp.com",
+        repo: "https://github.com/Terry0532/ChessV2",
+        image: images.OnlineChess,
+        details: "An online chess game."
+    }, {
         name: "Google Books Search",
         site: "http://googlebooks.online/",
         repo: "https://github.com/Terry0532/Google-Books-Search",

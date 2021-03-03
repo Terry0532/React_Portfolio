@@ -4,6 +4,7 @@ import QuizImage from "../images/project_screenshots/html_quiz.png";
 import WorkDaySchedulerImage from "../images/project_screenshots/work_day_scheduler.png";
 import GoogleBooksSearchImage from "../images/project_screenshots/googlebooks.gif";
 import MyAutoSpace from "../images/project_screenshots/myautospace.png";
+import OnlineChess from "../images/project_screenshots/online_chess.gif";
 
 const images = {
     CelebrityTwinImage: CelebrityTwinImage,
@@ -11,7 +12,8 @@ const images = {
     QuizImage: QuizImage,
     WorkDaySchedulerImage: WorkDaySchedulerImage,
     GoogleBooksSearchImage: GoogleBooksSearchImage,
-    MyAutoSpace: MyAutoSpace
+    MyAutoSpace: MyAutoSpace,
+    OnlineChess: OnlineChess
 }
 
 export default images;
