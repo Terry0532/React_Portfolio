@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React_Portfolio/static/css/main.5f0e1e5f.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.d0e4ac67.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.d0e4ac67.chunk.js.map",
+    "main.js": "/React_Portfolio/static/js/main.c0cbefcb.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.c0cbefcb.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.446e9683.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.446e9683.js.map",
     "static/js/2.c9543f38.chunk.js": "/React_Portfolio/static/js/2.c9543f38.chunk.js",
     "static/js/2.c9543f38.chunk.js.map": "/React_Portfolio/static/js/2.c9543f38.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.2732ce8d30974d6e888cc0fa5b76f39a.js": "/React_Portfolio/precache-manifest.2732ce8d30974d6e888cc0fa5b76f39a.js",
+    "precache-manifest.212bff35308fc901f54d391e140ce1a7.js": "/React_Portfolio/precache-manifest.212bff35308fc901f54d391e140ce1a7.js",
     "service-worker.js": "/React_Portfolio/service-worker.js",
     "static/css/main.5f0e1e5f.chunk.css.map": "/React_Portfolio/static/css/main.5f0e1e5f.chunk.css.map",
     "static/js/2.c9543f38.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.c9543f38.chunk.js.LICENSE.txt",
@@ -39,7 +39,7 @@
     "static/media/myautospace.png": "/React_Portfolio/static/media/myautospace.38e0d3ee.png",
     "static/media/playstore-512.png": "/React_Portfolio/static/media/playstore-512.d3d20324.png",
     "static/media/quantumbreak.jpg": "/React_Portfolio/static/media/quantumbreak.bdae4f92.jpg",
-    "static/media/selfie.png": "/React_Portfolio/static/media/selfie.becf747a.png",
+    "static/media/selfie.JPG": "/React_Portfolio/static/media/selfie.2305e6eb.JPG",
     "static/media/weather_dashboard.png": "/React_Portfolio/static/media/weather_dashboard.26f25ef1.png",
     "static/media/work_day_scheduler.png": "/React_Portfolio/static/media/work_day_scheduler.9b39367c.png",
     "static/media/xbox (1).png": "/React_Portfolio/static/media/xbox (1).7b093c0f.png"
@@ -48,6 +48,6 @@
     "static/js/runtime-main.446e9683.js",
     "static/js/2.c9543f38.chunk.js",
     "static/css/main.5f0e1e5f.chunk.css",
-    "static/js/main.d0e4ac67.chunk.js"
+    "static/js/main.c0cbefcb.chunk.js"
   ]
 }
