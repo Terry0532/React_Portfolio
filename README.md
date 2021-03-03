@@ -13,7 +13,6 @@ This is a updated version of my portfolio. Converted from HTML to React.
 
 ## Screenshot
 ![Screenshot](src/images/other/screenshot1.png)
-![Screenshot](src/images/other/screenshot2.png)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
