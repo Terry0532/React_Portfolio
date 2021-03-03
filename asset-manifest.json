@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/React_Portfolio/static/css/main.5f0e1e5f.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.c0cbefcb.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.c0cbefcb.chunk.js.map",
+    "main.js": "/React_Portfolio/static/js/main.6b3e2458.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.6b3e2458.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.446e9683.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.446e9683.js.map",
-    "static/js/2.c9543f38.chunk.js": "/React_Portfolio/static/js/2.c9543f38.chunk.js",
-    "static/js/2.c9543f38.chunk.js.map": "/React_Portfolio/static/js/2.c9543f38.chunk.js.map",
+    "static/js/2.577b152a.chunk.js": "/React_Portfolio/static/js/2.577b152a.chunk.js",
+    "static/js/2.577b152a.chunk.js.map": "/React_Portfolio/static/js/2.577b152a.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.212bff35308fc901f54d391e140ce1a7.js": "/React_Portfolio/precache-manifest.212bff35308fc901f54d391e140ce1a7.js",
+    "precache-manifest.d7df6c8dcacceb0c4f013ac6b1e422e1.js": "/React_Portfolio/precache-manifest.d7df6c8dcacceb0c4f013ac6b1e422e1.js",
     "service-worker.js": "/React_Portfolio/service-worker.js",
     "static/css/main.5f0e1e5f.chunk.css.map": "/React_Portfolio/static/css/main.5f0e1e5f.chunk.css.map",
-    "static/js/2.c9543f38.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.c9543f38.chunk.js.LICENSE.txt",
+    "static/js/2.577b152a.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.577b152a.chunk.js.LICENSE.txt",
     "static/media/1000px-Apple_logo_black.svg.png": "/React_Portfolio/static/media/1000px-Apple_logo_black.svg.5eb27b67.png",
     "static/media/1515037475950.jpg": "/React_Portfolio/static/media/1515037475950.0abd5ac5.jpg",
     "static/media/49275-recoil-windows-front-cover.jpg": "/React_Portfolio/static/media/49275-recoil-windows-front-cover.bc852529.jpg",
@@ -27,7 +27,7 @@
     "static/media/Need_for_Speed_Most_Wanted_Box_Art.jpg": "/React_Portfolio/static/media/Need_for_Speed_Most_Wanted_Box_Art.515d9ae0.jpg",
     "static/media/Nier_Automata_cover_art.jpg": "/React_Portfolio/static/media/Nier_Automata_cover_art.24a6e516.jpg",
     "static/media/Pokemon_Yellow.png": "/React_Portfolio/static/media/Pokemon_Yellow.b4898af0.png",
-    "static/media/Resume.pdf": "/React_Portfolio/static/media/Resume.b171686f.pdf",
+    "static/media/Resume.pdf": "/React_Portfolio/static/media/Resume.caca2981.pdf",
     "static/media/Saya_no_Uta_cover.jpg": "/React_Portfolio/static/media/Saya_no_Uta_cover.aacb96f1.jpg",
     "static/media/Steins;Gate_cover_art.jpg": "/React_Portfolio/static/media/Steins;Gate_cover_art.64d08a1c.jpg",
     "static/media/Talesoftheabyss_us.jpg": "/React_Portfolio/static/media/Talesoftheabyss_us.07ea8118.jpg",
@@ -37,6 +37,7 @@
     "static/media/html_quiz.png": "/React_Portfolio/static/media/html_quiz.d5b8f98b.png",
     "static/media/linux.png": "/React_Portfolio/static/media/linux.d09e16d2.png",
     "static/media/myautospace.png": "/React_Portfolio/static/media/myautospace.38e0d3ee.png",
+    "static/media/online_chess.gif": "/React_Portfolio/static/media/online_chess.322566a3.gif",
     "static/media/playstore-512.png": "/React_Portfolio/static/media/playstore-512.d3d20324.png",
     "static/media/quantumbreak.jpg": "/React_Portfolio/static/media/quantumbreak.bdae4f92.jpg",
     "static/media/selfie.JPG": "/React_Portfolio/static/media/selfie.2305e6eb.JPG",
@@ -46,8 +47,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.446e9683.js",
-    "static/js/2.c9543f38.chunk.js",
+    "static/js/2.577b152a.chunk.js",
     "static/css/main.5f0e1e5f.chunk.css",
-    "static/js/main.c0cbefcb.chunk.js"
+    "static/js/main.6b3e2458.chunk.js"
   ]
 }
