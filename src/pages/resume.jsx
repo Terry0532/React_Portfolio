@@ -16,7 +16,7 @@ function Resume() {
                             <p>JavaScript, HTML, CSS, jQuery, React, NodeJS, ExpressJS, MySQL, Sequelize, MongoDB, Mongoose, AWS EC2, AWS RDS, Socket.IO</p>
                             <h3><b>Projects</b></h3>
                             <h6><i><b>ONLINE-CHESS</b></i></h6>
-                            <p>I used to play chess in elementary school, and I wanted to learn more about Socket.IO, so I made this online chess game.</p>
+                            <p>An online chess game.</p>
                             <p>&#9679; Built server side with ExpressJS and Socket.IO for online multiplayer game.</p>
                             <p>&#9679; React client side with all game logic, such as, en passant capture, stalemate, etc.</p>
                             <p>&#9679; Need at least 2 clients to start the game.</p>
