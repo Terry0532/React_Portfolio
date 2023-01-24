@@ -33,34 +33,34 @@ function Fan(props) {
     <div className="card-swiper">
       <div className="card-groups">
         <div className="card-group" data-index="0" data-status="active">
-          <div className="little-card card"></div>
-          <div className="big-card card">1</div>
-          <div className="little-card card"></div>
-          <div className="big-card card">2</div>
-          <div className="little-card card"></div>
-          <div className="big-card card">3</div>
-          <div className="little-card card"></div>
-          <div className="big-card card">4</div>
+          <div className="little-card cards"></div>
+          <div className="big-card cards">1</div>
+          <div className="little-card cards"></div>
+          <div className="big-card cards">2</div>
+          <div className="little-card cards"></div>
+          <div className="big-card cards">3</div>
+          <div className="little-card cards"></div>
+          <div className="big-card cards">4</div>
         </div>
         <div className="card-group" data-index="1" data-status="unknown">
-          <div className="little-card card"></div>
-          <div className="big-card card">5</div>
-          <div className="little-card card"></div>
-          <div className="big-card card">6</div>
-          <div className="little-card card"></div>
-          <div className="big-card card">7</div>
-          <div className="little-card card"></div>
-          <div className="big-card card">8</div>
+          <div className="little-card cards"></div>
+          <div className="big-card cards">5</div>
+          <div className="little-card cards"></div>
+          <div className="big-card cards">6</div>
+          <div className="little-card cards"></div>
+          <div className="big-card cards">7</div>
+          <div className="little-card cards"></div>
+          <div className="big-card cards">8</div>
         </div>
         <div className="card-group" data-index="2" data-status="unknown">
-          <div className="little-card card"></div>
-          <div className="big-card card">9</div>
-          <div className="little-card card"></div>
-          <div className="big-card card">10</div>
-          <div className="little-card card"></div>
-          <div className="big-card card">11</div>
-          <div className="little-card card"></div>
-          <div className="big-card card">12</div>
+          <div className="little-card cards"></div>
+          <div className="big-card cards">9</div>
+          <div className="little-card cards"></div>
+          <div className="big-card cards">10</div>
+          <div className="little-card cards"></div>
+          <div className="big-card cards">11</div>
+          <div className="little-card cards"></div>
+          <div className="big-card cards">12</div>
         </div>
       </div>
       <div className="card-swiper-buttons">

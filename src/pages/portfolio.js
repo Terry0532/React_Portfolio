@@ -1,7 +1,6 @@
 import React from "react";
 import Navbar from "../components/navbar";
 import Accordion from "../components/Accordion/accordion";
-// import Fan from "../components/Fan/fan";
 import images from "../components/images";
 
 const projects = [
@@ -14,7 +13,7 @@ const projects = [
   },
   {
     name: "Google Books Search",
-    site: "http://googlebooks.online/",
+    site: "https://frozen-anchorage-90956.herokuapp.com",
     repo: "https://github.com/Terry0532/Google-Books-Search",
     image: images.GoogleBooksSearchImage,
     details:

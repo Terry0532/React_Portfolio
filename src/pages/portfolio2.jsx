@@ -1,10 +1,10 @@
 import React from "react";
 import Fan from "../components/Fan/fan";
 
-function Test() {
+function Fan() {
     return (
         <Fan/>
     );
 }
 
-export default Test;
+export default Fan;

@@ -26,7 +26,7 @@ function Resume() {
                             <p>&#9679; React and bootstrap for frontend; Sequelize and ExpressJS for backend; AWS RDS for database.</p>
                             <p>&#9679; JWT for user authorization, bcrypt to hash user password and dotenv to hide other sensitive data such as database username, password, etc.</p>
                             <p>&#9679; Uses ChartJS to display top 10 saved books from all users.</p>
-                            <p>GitHub Repo: <a href="https://github.com/Terry0532/Google-Books-Search" target="_blank" rel="noopener noreferrer">Link</a> Deployed on AWS EC2: <a href="http://googlebooks.online/" target="_blank" rel="noopener noreferrer">Link</a> Deployed on Heroku: <a href="https://frozen-anchorage-90956.herokuapp.com" target="_blank" rel="noopener noreferrer">Link</a></p>
+                            <p>GitHub Repo: <a href="https://github.com/Terry0532/Google-Books-Search" target="_blank" rel="noopener noreferrer">Link</a> Deployed on Heroku: <a href="https://frozen-anchorage-90956.herokuapp.com" target="_blank" rel="noopener noreferrer">Link</a> Deployed on Heroku: <a href="https://frozen-anchorage-90956.herokuapp.com" target="_blank" rel="noopener noreferrer">Link</a></p>
                             <h6><i><b>MYAUTOSPACE</b></i></h6>
                             <p>
                                 MyAutoSpace is must have for any home mechanic.
