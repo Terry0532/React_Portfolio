@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbar/navbar";
 import Selfie from "../images/other/selfie.JPG";
 import Tree from "../components/Tree/tree";
 

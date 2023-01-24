@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbar/navbar";
 import resume from "../PDF/Resume.pdf";
 
 function Resume() {

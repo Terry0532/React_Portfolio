@@ -1,0 +1,11 @@
+.navstyle {
+  margin-left: 16rem;
+  margin-right: 16rem;
+}
+
+@media (max-width: 576px) {
+  .navstyle {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
