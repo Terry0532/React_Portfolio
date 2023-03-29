@@ -199,7 +199,7 @@
 
 #test:focus > .test2 {
   /* transition: 300ms; */
-  transform: translate(75%, 16%) rotate(24deg);
+  transform: translate(75%, 46%) rotate(180deg);
 }
 
 .test2 {
