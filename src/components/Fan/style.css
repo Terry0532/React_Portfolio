@@ -27,7 +27,9 @@
 
 .card-group > p {
   position: absolute;
-  margin-top: 29rem;
+  top: 75%;
+  left: 20%;
+  right: 20%;
 }
 
 /* .card-group > a {
@@ -82,21 +84,36 @@
   background-color: blue;
 }
 
-.projectChess {
+.project {
   transition: 300ms;
   z-index: 1;
 }
 
-.projectChess > img {
+.project > img {
   width: 50rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.projectChess:hover {
+.project:hover {
   transform: scale(1.1);
 }
 
-.projectChess:focus{
+.project:focus {
   transform: translate(100%, 3%);
+}
+
+.button1 {
+  position: absolute;
+  top: 100%;
+  left: 37%;
+}
+
+.button2 {
+  position: absolute;
+  top: 100%;
+  left: 47%;
 }
 
 /* .card-group-chess:focus > .projectChess {
@@ -176,17 +193,22 @@
   display: flex;
   justify-content: space-around;
   padding: 0vmin 6vmin;
+  z-index: 99;
+  position: inherit;
 }
 
 .card-swiper-buttons > button {
   font-size: 2.5vmin;
   border: 0.4vmin solid rgb(200, 200, 200);
   border-radius: 100%;
-  color: white;
   background-color: transparent;
   height: 7vmin;
   width: 7vmin;
   cursor: pointer;
+}
+
+.card-swiper-buttons > button > i {
+  color: rgb(200, 200, 200);
 }
 
 #test {

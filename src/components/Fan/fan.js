@@ -51,7 +51,7 @@ function Fan(props) {
               <div className="little-card cards"></div>
               <div className="big-card cards">4</div> */}
               <div className="card-group-chess" tabIndex={-1}>
-                <div className="big-card cards projectChess">
+                <div className="big-card cards project">
                   <img
                     src="images/project_screenshots/online_chess.gif"
                     alt="online_chess"
@@ -62,7 +62,7 @@ function Fan(props) {
                     href="https://warm-brushlands-64673.herokuapp.com"
                     target="_blank"
                     rel="noopener noreferrer"
-                    class="btn btn-primary mr-1"
+                    className="btn btn-primary mr-1"
                     role="button"
                   >
                     Website
@@ -73,7 +73,7 @@ function Fan(props) {
                     href="https://github.com/Terry0532/ChessV2"
                     target="_blank"
                     rel="noopener noreferrer"
-                    class="btn btn-secondary"
+                    className="btn btn-secondary"
                     role="button"
                   >
                     GitHub Repository
